@@ -150,7 +150,8 @@
     <ClCompile Include="nbastats.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\players.txt" />
+    <Text Include="..\players-20-21.txt" />
+    <Text Include="players21-22.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

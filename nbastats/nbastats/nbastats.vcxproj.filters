@@ -20,6 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\players.txt" />
+    <Text Include="..\players-20-21.txt" />
+    <Text Include="players21-22.txt" />
   </ItemGroup>
 </Project>
